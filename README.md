@@ -6,6 +6,10 @@
 - 后端：FastAPI + SSE（任务编排、状态流、确认机制、LLM 调用）
 - LLM：通过环境变量接入 DeepSeek（或兼容 OpenAI SDK 的其他服务）
 
+## Screenshot
+
+![Drvis Office System Screenshot](docs/images/system-screenshot.png)
+
 ## Features
 
 - 6 个 Agent 协作执行任务（Orchestrator + 专项 Agent）
