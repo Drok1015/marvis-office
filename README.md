@@ -8,10 +8,7 @@
 
 ## Screenshot
 
-![Drvis Office System Screenshot](docs/images/system-screenshot.png)
-
-
-![Drvis Office System Screenshot](docs/images/system-screenshot2.png)
+![Drvis Office Demo](docs/images/system-screenshot.gif)
 
 ## Features
 
