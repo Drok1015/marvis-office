@@ -10,6 +10,9 @@
 
 ![Drvis Office System Screenshot](docs/images/system-screenshot.png)
 
+
+![Drvis Office System Screenshot](docs/images/system-screenshot2.png)
+
 ## Features
 
 - 6 个 Agent 协作执行任务（Orchestrator + 专项 Agent）
